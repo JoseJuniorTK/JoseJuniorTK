@@ -6,7 +6,7 @@ My name is José Maria Junior Lopes Perdigão, i'm a fullstack Python developer,
 [![Instagram Badge](https://img.shields.io/badge/-JoseJuniorTK-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/josejp.tk/)](https://www.instagram.com/josejp.tk/)
 [![Gmail Badge](https://img.shields.io/badge/-josemjuniortk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josemjuniortk@gmail.com)](mailto:josemjuniortk@gmail.com)
 
-## ⚡ Techn Skills
+## ⚡ Tech Skills
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&color=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&color=orange)
