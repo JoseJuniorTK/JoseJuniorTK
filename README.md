@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Welcome to my profile!
 
 My name is José Maria Junior Lopes Perdigão, i'm a fullstack Python developer, mostly focusing data science and cloud computing.
 
