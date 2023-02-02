@@ -9,6 +9,7 @@ My name is José Maria Junior Lopes Perdigão, i'm a fullstack Python developer,
 ## ⚡ Tech Skills
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&color=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&color=orange)
 ![React Typescript](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&color=blue)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -21,6 +22,11 @@ My name is José Maria Junior Lopes Perdigão, i'm a fullstack Python developer,
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud&color=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&color=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&color=blue)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JoseJuniorTK&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseJuniorTK&hide=TeX&layout=compact)
