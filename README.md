@@ -18,9 +18,9 @@ My name is José Maria Junior Lopes Perdigão, i'm a fullstack Python developer,
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&color=yellow)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&color=blue)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud&color=orange)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&color=blue)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&color=blue)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud&color=whitw)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&color=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&color=whitw)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JoseJuniorTK&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseJuniorTK&hide=TeX&layout=compact)
