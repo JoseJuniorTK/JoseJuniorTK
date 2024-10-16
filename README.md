@@ -5,7 +5,7 @@
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+  <img src="https://skillicons.dev/icons?i=git,javascript,typescript,css,html,go,python,react,next,tailwind,sass,nodejs,docker,figma,github,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,linkedin,instagram" />
 </a>
   <br />
 
@@ -17,4 +17,3 @@
      <img src="https://github-profile-trophy.vercel.app/?username=josejuniortk&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
   
- 
